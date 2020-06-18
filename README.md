@@ -7,3 +7,5 @@ How to branch out in Github
 How to git fetch
 
 `git fetch`
+
+Git fetch synchronizes the local repo with the base repo by updating branch names
